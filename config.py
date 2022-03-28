@@ -1,4 +1,4 @@
-BOT_TOKEN = '5089205489:AAEuUrYf2zHE6ShcRD-zShhJ4fj5QLbrOSo'
+BOT_TOKEN = '5089205489:AAEmnHDRpFMpJwVs6wmamHU7iDrokJh4jn0'
 PV_USERS = ['ManuGames20','ManuGames4']
 
 USERS = {}
